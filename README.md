@@ -1,0 +1,2 @@
+# Cafeteria-project
+This is a group project of me and 3 other members. The purpose was to create an application for our school Cafeteria. we used the service git for the project and work integration. Technologies used are Flatter in the frontend to create a valid interface for all Android and IOS versions. In the backend which was my responsability we choosed Node JS, MongoDb and Express server. Here's a link of the full project. https://github.com/arumugamVaishnavi?tab=repositories
